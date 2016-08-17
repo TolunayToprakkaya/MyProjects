@@ -1,0 +1,14 @@
+c:\users\bykarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\bin\Debug\Kutuphane9.0.exe.config
+c:\users\bykarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\obj\Debug\Kutuphane9.0.csprojResolveAssemblyReference.cache
+c:\users\bykarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\obj\Debug\Kutuphane9._0.Form1.resources
+c:\users\bykarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\obj\Debug\Kutuphane9._0.KullaniciBolumu.resources
+c:\users\bykarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\obj\Debug\Kutuphane9._0.Properties.Resources.resources
+c:\users\bykarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\obj\Debug\Kutuphane9._0.UyeOl.resources
+c:\users\bykarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\obj\Debug\Kutuphane9.0.csproj.GenerateResource.Cache
+c:\users\bykarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\bin\Debug\Kutuphane9.0.exe
+c:\users\bykarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\bin\Debug\Kutuphane9.0.pdb
+c:\users\bykarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\obj\Debug\Kutuphane9.0.exe
+c:\users\bykarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\obj\Debug\Kutuphane9.0.pdb
+C:\Users\ByKarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\obj\Debug\Kutuphane9._0.AdminBolumu.resources
+C:\Users\ByKarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\obj\Debug\Kutuphane9._0.SifremiUnuttum.resources
+C:\Users\ByKarizma\documents\visual studio 2013\Projects\Kutuphane9.0\Kutuphane9.0\obj\Debug\Kutuphane9._0.TeslimTarihleri.resources
